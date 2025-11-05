@@ -1,7 +1,8 @@
 # Algoritmo-Genetico-Mejorado
 # 🧬 Algoritmo Genético Mejorado
 
-**Autor:** Rafael Martínez  
+**Autor:** Rafael de Jesus Martínez Velez 
+**Matricula** 22056002
 **Fecha:** Noviembre 2025  
 
 ---
